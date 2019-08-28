@@ -1,0 +1,4 @@
+---
+applications: 
+  - name: buzzfizzfeed
+    buildpack: https://github.com/cloudfoundry/staticfile-buildpack
